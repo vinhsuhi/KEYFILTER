@@ -6,7 +6,7 @@ Store data in 'data.txt'
 
 ## OUTPUT
 
-Output will be store in 'output.txt'
+Output will be stored in 'output.txt'
 
 ## Dependencies
 * Python 3.x (tested on Python 3.6)
